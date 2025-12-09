@@ -1,0 +1,4 @@
+[console_scripts]
+my_listener_node = onboarding_1.my_listener_node:main
+my_talker_node = onboarding_1.my_talker_node:main
+

@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing onboarding_2.egg-info/PKG-INFO
+writing dependency_links to onboarding_2.egg-info/dependency_links.txt
+writing entry points to onboarding_2.egg-info/entry_points.txt
+writing requirements to onboarding_2.egg-info/requires.txt
+writing top-level names to onboarding_2.egg-info/top_level.txt
+reading manifest file 'onboarding_2.egg-info/SOURCES.txt'
+writing manifest file 'onboarding_2.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/shyy/ros2_ws/src/install/onboarding_2/lib/python3.10/site-packages/onboarding-2.egg-link (link to .)
+Installing joystick_interpreter script to /home/shyy/ros2_ws/src/install/onboarding_2/lib/onboarding_2
+Installing motor_controller script to /home/shyy/ros2_ws/src/install/onboarding_2/lib/onboarding_2
+
+Installed /home/shyy/ros2_ws/src/build/onboarding_2
+running symlink_data

@@ -1,0 +1,25 @@
+[1.077s] Invoking command in '/home/shyy/ros2_ws/src/build/onboarding_1': PYTHONPATH=/home/shyy/ros2_ws/src/build/onboarding_1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shyy/ros2_ws/src/install/onboarding_1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shyy/ros2_ws/src/build/onboarding_1/build --no-deps symlink_data
+[1.320s] running develop
+[1.487s] running egg_info
+[1.488s] creating onboarding_1.egg-info
+[1.488s] writing onboarding_1.egg-info/PKG-INFO
+[1.488s] writing dependency_links to onboarding_1.egg-info/dependency_links.txt
+[1.488s] writing entry points to onboarding_1.egg-info/entry_points.txt
+[1.488s] writing requirements to onboarding_1.egg-info/requires.txt
+[1.488s] writing top-level names to onboarding_1.egg-info/top_level.txt
+[1.489s] writing manifest file 'onboarding_1.egg-info/SOURCES.txt'
+[1.495s] reading manifest file 'onboarding_1.egg-info/SOURCES.txt'
+[1.496s] writing manifest file 'onboarding_1.egg-info/SOURCES.txt'
+[1.497s] running build_ext
+[1.497s] Creating /home/shyy/ros2_ws/src/install/onboarding_1/lib/python3.10/site-packages/onboarding-1.egg-link (link to .)
+[1.498s] Installing my_listener_node script to /home/shyy/ros2_ws/src/install/onboarding_1/lib/onboarding_1
+[1.498s] Installing my_talker_node script to /home/shyy/ros2_ws/src/install/onboarding_1/lib/onboarding_1
+[1.503s] 
+[1.503s] Installed /home/shyy/ros2_ws/src/build/onboarding_1
+[1.503s] running symlink_data
+[1.504s] creating /home/shyy/ros2_ws/src/install/onboarding_1/share/ament_index
+[1.504s] creating /home/shyy/ros2_ws/src/install/onboarding_1/share/ament_index/resource_index
+[1.504s] creating /home/shyy/ros2_ws/src/install/onboarding_1/share/ament_index/resource_index/packages
+[1.504s] symbolically linking /home/shyy/ros2_ws/src/build/onboarding_1/resource/onboarding_1 -> /home/shyy/ros2_ws/src/install/onboarding_1/share/ament_index/resource_index/packages
+[1.504s] symbolically linking /home/shyy/ros2_ws/src/build/onboarding_1/package.xml -> /home/shyy/ros2_ws/src/install/onboarding_1/share/onboarding_1
+[1.551s] Invoked command in '/home/shyy/ros2_ws/src/build/onboarding_1' returned '0': PYTHONPATH=/home/shyy/ros2_ws/src/build/onboarding_1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shyy/ros2_ws/src/install/onboarding_1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shyy/ros2_ws/src/build/onboarding_1/build --no-deps symlink_data

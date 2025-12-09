@@ -1,0 +1,25 @@
+[1.073s] Invoking command in '/home/shyy/ros2_ws/src/build/onboarding_2': PYTHONPATH=/home/shyy/ros2_ws/src/build/onboarding_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shyy/ros2_ws/src/install/onboarding_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shyy/ros2_ws/src/build/onboarding_2/build --no-deps symlink_data
+[1.324s] running develop
+[1.490s] running egg_info
+[1.491s] creating onboarding_2.egg-info
+[1.491s] writing onboarding_2.egg-info/PKG-INFO
+[1.491s] writing dependency_links to onboarding_2.egg-info/dependency_links.txt
+[1.492s] writing entry points to onboarding_2.egg-info/entry_points.txt
+[1.497s] writing requirements to onboarding_2.egg-info/requires.txt
+[1.497s] writing top-level names to onboarding_2.egg-info/top_level.txt
+[1.498s] writing manifest file 'onboarding_2.egg-info/SOURCES.txt'
+[1.498s] reading manifest file 'onboarding_2.egg-info/SOURCES.txt'
+[1.501s] writing manifest file 'onboarding_2.egg-info/SOURCES.txt'
+[1.503s] running build_ext
+[1.504s] Creating /home/shyy/ros2_ws/src/install/onboarding_2/lib/python3.10/site-packages/onboarding-2.egg-link (link to .)
+[1.505s] Installing joystick_interpreter script to /home/shyy/ros2_ws/src/install/onboarding_2/lib/onboarding_2
+[1.505s] Installing motor_controller script to /home/shyy/ros2_ws/src/install/onboarding_2/lib/onboarding_2
+[1.506s] 
+[1.506s] Installed /home/shyy/ros2_ws/src/build/onboarding_2
+[1.510s] running symlink_data
+[1.510s] creating /home/shyy/ros2_ws/src/install/onboarding_2/share/ament_index
+[1.510s] creating /home/shyy/ros2_ws/src/install/onboarding_2/share/ament_index/resource_index
+[1.510s] creating /home/shyy/ros2_ws/src/install/onboarding_2/share/ament_index/resource_index/packages
+[1.511s] symbolically linking /home/shyy/ros2_ws/src/build/onboarding_2/resource/onboarding_2 -> /home/shyy/ros2_ws/src/install/onboarding_2/share/ament_index/resource_index/packages
+[1.511s] symbolically linking /home/shyy/ros2_ws/src/build/onboarding_2/package.xml -> /home/shyy/ros2_ws/src/install/onboarding_2/share/onboarding_2
+[1.613s] Invoked command in '/home/shyy/ros2_ws/src/build/onboarding_2' returned '0': PYTHONPATH=/home/shyy/ros2_ws/src/build/onboarding_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shyy/ros2_ws/src/install/onboarding_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shyy/ros2_ws/src/build/onboarding_2/build --no-deps symlink_data

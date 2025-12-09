@@ -1,0 +1,4 @@
+[console_scripts]
+joystick_interpreter = onboarding_2.joystick_interpreter:main
+motor_controller = onboarding_2.motor_controller:main
+
